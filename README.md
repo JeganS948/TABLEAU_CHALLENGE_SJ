@@ -1,5 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
+* Server Link: https://public.tableau.com/profile/sharanvika.jegatheeswaram#!/vizhome/citibikes2020_analytics/CitiBikes2020?publish=yes
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
